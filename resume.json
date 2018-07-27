@@ -1,0 +1,206 @@
+{
+	"basic": {
+		"email": "adnannet8425@gmail.com",
+		"name": "Mohd Adnan Ansari",
+		"phone": "7208577656",
+		"summary": "I am Adnan, i am developer of java and C.Programming is my passion and also i have interest in web development.",
+		"location": {
+			"city": "Thane",
+			"region": "Mumbai Metropoliton Region(MMR)",
+			"state": "Maharashtra",
+			"country": "India",
+			"countryCode": "IN"
+		}
+	},
+
+	"education": [{
+			"institution": "Abdul Razzak kalsekar Polytechnic",
+			"area": "Computer Science and Engineering",
+			"studyType": "Diploma In Engineering",
+			"startDate": "2014-06-15",
+			"class": "First Class With Distinction",
+			"gpa": "75.38",
+			"endDate": "2017-05-02"
+		},
+		{
+			"institution": "Danish Urdu High School",
+			"studyType": "SSC",
+			"startDate": "2013-06-14",
+			"class": "A Grade",
+			"gpa": "66.20",
+			"endDate": "2014-03-29"
+		}
+	],
+
+	"skills": {
+		"languages": [{
+				"name": "C Programming",
+				"level": "Average",
+				"ratings": "7"
+			},
+			{
+				"name": "HTML & CSS",
+				"level": "Good",
+				"ratings": "5"
+			},
+			{
+				"name": "C++",
+				"level": "Average",
+				"ratings": "6"
+			},
+			{
+				"name": "SQL",
+				"level": "Excellent",
+				"ratings": "8"
+			},
+			{
+				"name": "Assembly languages",
+				"level": "4",
+				"ratings": "Beginner"
+			},
+			{
+				"name": "Java",
+				"level": "Excellent",
+				"ratings": "8"
+			},
+			{
+				"name": "Python",
+				"level": "4",
+				"ratings": "Beginner"
+			}
+		],
+		"os": [{
+				"name": "Windos (5+ Years)",
+				"level": "Professional",
+				"ratings": "8"
+			},
+			{
+				"name": "Ubuntu 14.05 LTS",
+				"level": "Average",
+				"ratings": "7"
+			},
+			{
+				"name": "LinuxMint",
+				"level": "Good",
+				"ratings": "6"
+			}
+		],
+		"conecpts": [{
+				"name": "Programming",
+				"level": "Intermediate",
+				"ratings": "7"
+			},
+			{
+				"name": "OOP",
+				"level": "Beginner",
+				"ratings": "8"
+			},
+			{
+				"name": "Netroking",
+				"level": "Intermediate",
+				"ratings": "6"
+			},
+			{
+				"name": "Web development",
+				"level": "Intermediate",
+				"ratings": "7"
+			}
+		],
+		"tools": [{
+				"name": "Turbo C",
+				"level": "Professional",
+				"ratings": "9"
+			},
+			{
+				"name": "Oracle Database",
+				"level": "Intermediate",
+				"ratings": "7"
+			},
+			{
+				"name": "NET Beans 8.1",
+				"level": "Intermediate",
+				"ratings": "4"
+			},
+			{
+				"name": "Microsoft Visual Studio 6.0",
+				"level": "Intermediate",
+				"ratings": "8"
+			},
+			{
+				"name": "Cisco Packet Tracer",
+				"level": "Intermediate",
+				"ratings": "3"
+			},
+			{
+				"name": "Proteus Professional8",
+				"level": "Intermediate",
+				"ratings": "7"
+			},
+			{
+				"name": "Tasm 1.4",
+				"level": "Intermediate",
+				"ratings": "4"
+			},
+			{
+				"name": "Wireshark",
+				"level": "Intermediate",
+				"ratings": "3"
+			},
+			{
+				"name": "Logisim",
+				"level": "Intermediate",
+				"ratings": "4"
+			}
+		]
+	},
+	"languages": [{
+			"language": "English",
+			"fluency": "Professional"
+		},
+		{
+			"language": "Hindi",
+			"fluency": "Native"
+		},
+		{
+			"language": "Urdu",
+			"fluency": "Native"
+		},
+		{
+			"language": "Marathi",
+			"fluency": "Elementary"
+		}
+	],
+	"interest": [{
+			"name": "Web development"
+		},
+		{
+			"name": "Programming"
+		},
+		{
+			"name": "Graphic Desiging"
+		},
+		{
+			"name": "Travelling"
+		},
+		{
+			"name": "learning New Technology"
+		}
+	],
+	"projects": [{
+		"name": "Visitor Gate Pass System",
+		"startDate": "2016-01-01",
+		"summary": "It is Web based Application used to record the number of people coming in the organization in a daily bases and providingthem a pass that contains generic information about the Visitlike name,entry time and end time etc.",
+		"technology": "PHP,Ajax,CSS3,HTML5",
+		"endDate": "2016-12-23",
+		"workType": "Front End Developer"
+	}],
+
+	"ceritification": [{
+		"title": "Basics In Computer Hardware",
+		"date": "2015-01-01",
+		"expiry": "2015-03-01",
+		"institution": "Global Computer Academy",
+		"ceritificationNo": "NA",
+		"grade": "A"
+	}]
+}

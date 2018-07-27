@@ -49,7 +49,7 @@ footer{
 	border-radius: 50% 50% 50% 50%;
 }
 
-.contact-form h3,.social-media h3{
+.contact-form h3,.social-media h3,.gallery h1{
 	text-align: center;
 }
 .contact-form *,.social-media *{
@@ -77,4 +77,21 @@ footer{
 }
 .contact-form input[type="submit"]:hover{
 	opacity: 0.8;
+}
+.gallery figure img{
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+}
+.gallery{
+	text-align: center;
+}
+.gallery figure{
+	display: inline-block;
+	border: 1px solid black;
+	position: relative;
+	padding: 5px;
+	margin: 10px;
+	text-align: center;
+	font-style: italic;
 }
