@@ -26,23 +26,23 @@
 				<div>
 					Email
 				</div>
-				<input type="email" name="user-email" value="" placeholder="username@example.com">
+				<input id="user-email" type="email" name="user-email"  value="" placeholder="username@example.com" required="required">
 			</label>
 			
 			<label>
 				<div>
 					Subject
 				</div>
-				<input type="text" name="subject" value="" placeholder="A Short Description About The Matter">
+				<input id="subject" type="text" name="subject"   value="" placeholder="A Short Description About The Matter" required="required">
 			</label>
 
 			<label>
 				<div>
 					Message
 				</div>
-				<textarea name="message"></textarea>
+				<textarea id="message" name="message" required="required"></textarea>
 			</label>
-			<div><input type="submit" Name="Submit" value="Submit"></div>
+			<div><input id="submit-btn "type="submit" Name="Submit" value="Submit"></div>
 		</form>
 	</div>
 	<div class="social-media">
@@ -60,5 +60,6 @@
 			&copy;2018 All Rights Reserved - Mohd Adnan Ansari
 		</div>
 	</footer>
+	<script src="js/validate.js" type="text/javascript"></script>
 </body>
 </html>
