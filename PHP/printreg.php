@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Registration Form</title>
+	<title>Your Registration Form</title>
 	<style type="text/css">
 		table{
 			border:2px solid black;
